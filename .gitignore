@@ -1,0 +1,9 @@
+data/raw/
+data/processed/
+results/
+*.tmp
+*.log
+__pycache__/
+.Rhistory
+.ipynb_checkpoints/
+.DS_Store
